@@ -86,3 +86,11 @@ main section.products-show {
     }
   }
 }
+
+main .admin-products-index {
+  .categories {
+    padding: 0 5%;
+    display: flex;
+    flex-direction: column;
+  }
+}
