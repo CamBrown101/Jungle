@@ -19,6 +19,14 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
+## Screenshots
+
+![Admin page for deleting and adding items](https://github.com/CamBrown101/Jungle/blob/master/Screenshots/admin_page.png?raw=true)
+
+![Image of the cart before checking out](https://github.com/CamBrown101/Jungle/blob/master/Screenshots/cart.png?raw=true)
+
+![Image of the main page with all products listed. Out of stock and sale badge showing as well.](https://github.com/CamBrown101/Jungle/blob/master/Screenshots/products_page.png)
+
 ## Dependencies
 
 - Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
